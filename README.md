@@ -13,6 +13,7 @@
 [![Turkish](https://img.shields.io/badge/-Turkish-darkgreen)](translations/README.tr.md)
 [![French](https://img.shields.io/badge/-French-purple)](translations/README.fr.md)
 [![Japanese](https://img.shields.io/badge/-Japanese-red)](translations/README.ja.md)
+[![Spanish](https://img.shields.io/badge/-Spanish-gray)](translations/README.es.md)
 
 # IoT for Beginners - A Curriculum
 
