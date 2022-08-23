@@ -124,7 +124,7 @@ Hay presentaciones de diapositivas para algunas de las lecciones en la carpeta [
 
 ## ¡Se busca ayudante!
 
-¿Te gustaría contribuir con una traducción? Lea nuestras [directrices de traducción](../TRANSLATIONS.md) y agregue información [a uno de los problemas de traducción](https://github.com/microsoft/IoT-For-Beginners/issues?q=is%3Aissue+is% 3Aabrir+etiqueta%3Atraducción). Si desea traducir a un nuevo idioma, plantee un nuevo problema para el seguimiento.
+¿Te gustaría contribuir con una traducción? Lea nuestras [directrices de traducción](../TRANSLATIONS.md) y agregue información [a uno de los problemas de traducción](https://github.com/microsoft/IoT-For-Beginners/issues?q=is%3Aissue+is%3Aopen+label%3Atranslation). Si desea traducir a un nuevo idioma, plantee un nuevo problema para el seguimiento.
 
 ## Otros planes de estudios
 
