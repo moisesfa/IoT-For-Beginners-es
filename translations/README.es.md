@@ -37,7 +37,7 @@ Los proyectos cubren el viaje de los alimentos desde la granja hasta la mesa. Es
 
 > 🎥 ¡Haga clic en la imagen de arriba para ver un video sobre el proyecto!
 
-> **Maestros**, hemos [incluido algunas sugerencias](for-teachers.md) sobre cómo usar este currículo. Si desea crear sus propias lecciones, también hemos incluido una[plantilla de lección](lesson-template/README.md).
+> **Maestros**, hemos [incluido algunas sugerencias](../for-teachers.md) sobre cómo usar este currículo. Si desea crear sus propias lecciones, también hemos incluido una [plantilla de lección](../lesson-template/README.md).
 
 > **[Estudiantes](https://aka.ms/student-page)**, para usar este plan de estudios por su cuenta, bifurquen todo el repositorio y completen los ejercicios por su cuenta, comenzando con un cuestionario previo a la lección, luego leyendo la lección y completando el resto de las actividades. Intente crear los proyectos comprendiendo las lecciones en lugar de copiar el código de la solución; sin embargo, ese código está disponible en las carpetas /solutions en cada lección orientada a proyectos. Otra idea sería formar un grupo de estudio con amigos y repasar el contenido juntos. Para un estudio más detallado, recomendamos [Microsoft Learn](https://docs.microsoft.com/users/jimbobbennett/collections/ke2ehd351jopwr?WT.mc_id=academic-17441-jabenn).
 
@@ -137,7 +137,7 @@ Hay presentaciones de diapositivas para algunas de las lecciones en la carpeta [
 
 ## Atribuciones de imágenes
 
-Puede encontrar todas las atribuciones de las imágenes utilizadas en este plan de estudios cuando sea necesario en [Atribuciones](./attributions.md).
+Puede encontrar todas las atribuciones de las imágenes utilizadas en este plan de estudios cuando sea necesario en [Atribuciones](../attributions.md).
 
 
 
