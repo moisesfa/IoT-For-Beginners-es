@@ -8,12 +8,12 @@
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/IoT-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/IoT-For-Beginners/network/)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/IoT-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/IoT-For-Beginners/stargazers/)
 
-[![Bengali](https://img.shields.io/badge/-Bengali-blue)](translations/README.bn.md)
-[![Chinese](https://img.shields.io/badge/-Chinese-yellow)](translations/README.zh-cn.md)
-[![Turkish](https://img.shields.io/badge/-Turkish-darkgreen)](translations/README.tr.md)
-[![French](https://img.shields.io/badge/-French-purple)](translations/README.fr.md)
-[![Japanese](https://img.shields.io/badge/-Japanese-red)](translations/README.ja.md)
-[![Spanish](https://img.shields.io/badge/-Spanish-gray)](translations/README.es.md)
+[![Bengali](https://img.shields.io/badge/-Bengali-blue)](../translations/README.bn.md)
+[![Chinese](https://img.shields.io/badge/-Chinese-yellow)](../translations/README.zh-cn.md)
+[![Turkish](https://img.shields.io/badge/-Turkish-darkgreen)](../translations/README.tr.md)
+[![French](https://img.shields.io/badge/-French-purple)](../translations/README.fr.md)
+[![Japanese](https://img.shields.io/badge/-Japanese-red)](../translations/README.ja.md)
+[![Spanish](https://img.shields.io/badge/-Spanish-gray)](../translations/README.es.md)
 
 # IoT para principiantes: un plan de estudios
 
