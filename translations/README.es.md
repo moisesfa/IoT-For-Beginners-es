@@ -21,7 +21,7 @@ Los defensores de la nube de Azure en Microsoft se complacen en ofrecer un plan 
 
 Los proyectos cubren el viaje de los alimentos desde la granja hasta la mesa. Esto incluye la agricultura, la logística, la fabricación, el comercio minorista y el consumidor, todas áreas populares de la industria para dispositivos IoT.
 
-![A road map for the course showing 24 lessons covering intro, farming, transport, processing, retail and cooking](sketchnotes/Roadmap.jpg)
+![A road map for the course showing 24 lessons covering intro, farming, transport, processing, retail and cooking](../sketchnotes/Roadmap.jpg)
 
 > Sketchnote by [Nitya Narasimhan](https://github.com/nitya). Haz click en la imagen para una versión más grande.
 
@@ -31,7 +31,7 @@ Los proyectos cubren el viaje de los alimentos desde la granja hasta la mesa. Es
 
 ¡Conocer al equipo!
 
-[![Promo video](./images/IOT.gif)](https://youtu.be/-wippUJRi5k)
+[![Promo video](../images/IOT.gif)](https://youtu.be/-wippUJRi5k)
 
 **Gif by** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
@@ -120,11 +120,11 @@ npm run convert
 
 ### Diapositivas
 
-Hay presentaciones de diapositivas para algunas de las lecciones en la carpeta [diapositivas](./slides).
+Hay presentaciones de diapositivas para algunas de las lecciones en la carpeta [diapositivas](../slides).
 
 ## ¡Se busca ayudante!
 
-¿Te gustaría contribuir con una traducción? Lea nuestras [directrices de traducción](TRANSLATIONS.md) y agregue información [a uno de los problemas de traducción](https://github.com/microsoft/IoT-For-Beginners/issues?q=is%3Aissue+is% 3Aabrir+etiqueta%3Atraducción). Si desea traducir a un nuevo idioma, plantee un nuevo problema para el seguimiento.
+¿Te gustaría contribuir con una traducción? Lea nuestras [directrices de traducción](../TRANSLATIONS.md) y agregue información [a uno de los problemas de traducción](https://github.com/microsoft/IoT-For-Beginners/issues?q=is%3Aissue+is% 3Aabrir+etiqueta%3Atraducción). Si desea traducir a un nuevo idioma, plantee un nuevo problema para el seguimiento.
 
 ## Otros planes de estudios
 
