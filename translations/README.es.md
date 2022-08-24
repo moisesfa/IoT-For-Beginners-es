@@ -23,21 +23,21 @@ Los proyectos cubren el viaje de los alimentos desde la granja hasta la mesa. Es
 
 ![A road map for the course showing 24 lessons covering intro, farming, transport, processing, retail and cooking](../sketchnotes/Roadmap.jpg)
 
-> Sketchnote by [Nitya Narasimhan](https://github.com/nitya). Haz click en la imagen para una versión más grande.
+> Nota de boceto por [Nitya Narasimhan](https://github.com/nitya). Haz click en la imagen para una versión más grande.
 
 **Muchas gracias a nuestros autores [Jen Fox](https://github.com/jenfoxbot), [Jen Looper](https://github.com/jlooper), [Jim Bennett](https://github.com/jimbobbennett), y nuestro dibujante de bocetos [Nitya Narasimhan](https://github.com/nitya).**
 
-**Gracias también a nuestro equipo de [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-17441-jabenn) que han estado revisando y traduciendo este currículo - [Aditya Garg](https://github.com/AdityaGarg00), [Anurag Sharma](https://github.com/Anurag-0-1-A), [Arpita Das](https://github.com/Arpiiitaaa), [Aryan Jain](https://www.linkedin.com/in/aryan-jain-47a4a1145/), [Bhavesh Suneja](https://github.com/EliteWarrior315), [Faith Hunja](https://faithhunja.github.io/), [Lateefah Bello](https://www.linkedin.com/in/lateefah-bello/), [Manvi Jha](https://github.com/Severus-Matthew), [Mireille Tan](https://www.linkedin.com/in/mireille-tan-a4834819a/), [Mohammad Iftekher (Iftu) Ebne Jalal](https://github.com/Iftu119), [Mohammad Zulfikar](https://github.com/mohzulfikar), [Priyanshu Srivastav](https://www.linkedin.com/in/priyanshu-srivastav-b067241ba), [Thanmai Gowducheruvu](https://github.com/innovation-platform), and [Zina Kamel](https://www.linkedin.com/in/zina-kamel/).**
+**Gracias también a nuestro equipo de [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-17441-jabenn) que han estado revisando y traduciendo este plan de estudios - [Aditya Garg](https://github.com/AdityaGarg00), [Anurag Sharma](https://github.com/Anurag-0-1-A), [Arpita Das](https://github.com/Arpiiitaaa), [Aryan Jain](https://www.linkedin.com/in/aryan-jain-47a4a1145/), [Bhavesh Suneja](https://github.com/EliteWarrior315), [Faith Hunja](https://faithhunja.github.io/), [Lateefah Bello](https://www.linkedin.com/in/lateefah-bello/), [Manvi Jha](https://github.com/Severus-Matthew), [Mireille Tan](https://www.linkedin.com/in/mireille-tan-a4834819a/), [Mohammad Iftekher (Iftu) Ebne Jalal](https://github.com/Iftu119), [Mohammad Zulfikar](https://github.com/mohzulfikar), [Priyanshu Srivastav](https://www.linkedin.com/in/priyanshu-srivastav-b067241ba), [Thanmai Gowducheruvu](https://github.com/innovation-platform), y [Zina Kamel](https://www.linkedin.com/in/zina-kamel/).**
 
 ¡Conocer al equipo!
 
 [![Promo video](../images/IOT.gif)](https://youtu.be/-wippUJRi5k)
 
-**Gif by** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
+**Gif por** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
 > 🎥 ¡Haga clic en la imagen de arriba para ver un video sobre el proyecto!
 
-> **Maestros**, hemos [incluido algunas sugerencias](../for-teachers.md) sobre cómo usar este currículo. Si desea crear sus propias lecciones, también hemos incluido una [plantilla de lección](../lesson-template/README.md).
+> **Maestros**, hemos [incluido algunas sugerencias](../for-teachers.md) sobre cómo usar este plan de estudio. Si desea crear sus propias lecciones, también hemos incluido una [plantilla de lección](../lesson-template/README.md).
 
 > **[Estudiantes](https://aka.ms/student-page)**, para usar este plan de estudios por su cuenta, bifurquen todo el repositorio y completen los ejercicios por su cuenta, comenzando con un cuestionario previo a la lección, luego leyendo la lección y completando el resto de las actividades. Intente crear los proyectos comprendiendo las lecciones en lugar de copiar el código de la solución; sin embargo, ese código está disponible en las carpetas /solutions en cada lección orientada a proyectos. Otra idea sería formar un grupo de estudio con amigos y repasar el contenido juntos. Para un estudio más detallado, recomendamos [Microsoft Learn](https://docs.microsoft.com/users/jimbobbennett/collections/ke2ehd351jopwr?WT.mc_id=academic-17441-jabenn).
 
@@ -130,10 +130,10 @@ Hay presentaciones de diapositivas para algunas de las lecciones en la carpeta [
 
 ¡Nuestro equipo produce otros planes de estudio! Verificar:
 
-- [Desarrollador web para principiantes] (https://aka.ms/webdev-beginners)
-- [ML para principiantes] (https://aka.ms/ml-beginners)
+- [Desarrollador web para principiantes](https://aka.ms/webdev-beginners)
+- [Aprendizaje automático para principiantes](https://aka.ms/ml-beginners)
 - [Ciencia de datos para principiantes](https://aka.ms/datascience-beginners)
-- [IA para principiantes] (https://aka.ms/ai-beginners)
+- [Inteligencia artificial para principiantes](https://aka.ms/ai-beginners)
 
 ## Atribuciones de imágenes
 
